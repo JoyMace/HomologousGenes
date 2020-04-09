@@ -1,0 +1,24 @@
+ohnologs_YGOB.tab: 
+
+S. cerevisiae paralogous gene pairs that were produced by the whole genome duplication (WGD), as 
+reported by Ken Wolfe and colleagues at the Yeast Gene Order Browser (YGOB; http://ygob.ucd.ie).
+
+This data file was provided to SGD by Ken Wolfe on 13 August 2012.
+
+The columns are:
+
+1. Gene 1 - systematic name of first gene in pair
+2. Gene Name 1 - standard gene name of first gene in pair
+3. Gene 2 - systematic name of second gene in pair
+4. Gene Name 2 - standard gene name of second gene in pair
+5. AA %id - percent amino acid sequence identity between genes in pair
+6. Length Ratio - portion of gene length included in calculation of amino acid percent identity
+
+Ohnologs = gene pairs within the same genome that were produced as the result of a whole genome 
+duplication (WGD).
+
+for more information on the YGOB:
+
+Byrne KP, Wolfe KH. 2005. The Yeast Gene Order Browser: combining curated homology and syntenic 
+context reveals gene fate in polyploid species. Genome Res. Oct;15(10):1456-61.
+PMID:16169922
